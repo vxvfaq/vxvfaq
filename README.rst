@@ -10,7 +10,7 @@ Look how easy it is to use:
     # Get your stuff done
     project.do_stuff()
 
-Features
+Test 1
 --------
 
 - Be awesome
