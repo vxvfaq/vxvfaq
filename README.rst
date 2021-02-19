@@ -21,10 +21,13 @@ Who is the team?
 
 - Kasian Franks (Founder and CEO/CVO)
 Serial scientific & technical founder, CEO and CVO of public and private startups, hedge fund algorithm advisor, life sciences researcher, NLP, machine learning, data engineer. https://www.linkedin.com/in/kasianfranks
+
 - Mike Muldoon (CTO)
 A track record of leading large projects from concept to delivery, and brings over 20 years of experience to the table. #1 employee at SeeqPod, he took the product from whiteboard to 50M monthly active users. https://www.linkedin.com/in/mikemuldoon/
+
 - Raf Podowski, PhD (Chief Data Scientist)
 Scientist, engineer, text and data miner, artist. PhD, Bioinformatics with a focus on infectious disease including COVID-19 – Karolinska institute. https://www.linkedin.com/in/rpodowski
+
 We are a team with a deep background in science, technology and the financial markets,and are veteran software engineers, scientific and technical founders who work in the area of specialized algorithms in ML/AI for Life Sciences and the financial markets.
 
 Core team size: 21
