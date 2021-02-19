@@ -39,12 +39,6 @@ Legal: 1
 Finance: 1
 
 Where is Vectorspace AI located?
-----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
-
-Where is Vectorspace AI located?
 -------
 
 Vectorspace AI is located in San Francisco, CA and Valletta, Malta.
