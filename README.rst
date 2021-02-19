@@ -52,7 +52,7 @@ Where is Vectorspace AI located?
 - Issue Tracker: github.com/$project/$project/issues
 - Source Code: github.com/$project/$project
 
-When was Vectorspace AI founded?
+Where is Vectorspace AI located?
 -------
 
 Vectorspace AI is located in San Francisco, CA and Valletta, Malta.
@@ -61,3 +61,26 @@ When was Vectorspace AI founded?
 -------
 
 January 2017.
+
+What is the token symbol?
+-------
+
+The symbol is VXV and the token address is: 0x7D29A64504629172a429e64183D6673b9dAcbFCe
+https://etherscan.io/token/0x7D29A64504629172a429e64183D6673b9dAcbFCe
+
+When was VXV token created?
+-------
+
+08/04/2018 08:42:33 PM +UTC
+
+Is there an updated roadmap?
+-------
+
+We provide an updated roadmap once a week on Monday at 1pm PST after the traditional markets close in the form of a corporate executive conference call. The calls are available in the main Telegram group and in our site, in this link: https://vectorspace.ai/conf-calls.html
+
+Is the team planning on building a new website and possibly touching up the branding?
+-------
+
+Google made it to the number one brand in the world with a simple interface. We are in the business of data engineering and our branding is geared towards attracting revenue generating customers in data fields in the industry. This may happen at a later time but is not a priority at the moment.
+
+
