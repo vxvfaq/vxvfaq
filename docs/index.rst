@@ -6,6 +6,8 @@
 Welcome to Vectorspace AI Community FAQ!
 ==================================================
 
+This is a community made FAQ, intended to help new members on researching the project. Feel free to join Vectorspace AI's main Telegram channel (https://t.me/joinchat/GrCYjA8rPgD8coAiEhRuBA) for questions that are not covered here and also our unnoficial channel (https://t.me/vexies).
+
 Contents:
 
 .. toctree::
