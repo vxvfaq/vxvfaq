@@ -445,6 +445,7 @@ Who are the competitors of Vectorspace AI?
 -------
 
 In the crypto market, there are none. In the traditional, our closest competitors are Motif Investing (however, they do it like Pandora does music, manually), Palantir, Blackrock, Rencap, and Google. 
+
 We do not have competitors yet that provide NLU correlation matrix datasets used to generate clusters from unsupervised data using vector space methods.
 
 What places Vectorspace AI ahead of its competitors?
@@ -455,7 +456,9 @@ What places Vectorspace AI ahead of its competitors?
 -	strategy wrapped around technology
 -	knowledge expertise in the public markets, 
 -	and decades of experience in data science (previously known as data/knowledge/text mining and epigraphy) and data engineering.
+
 The VXV approach for those platforms is unique in the industry for dataset exposure in several ways. These trade secrets also double as our moats and barrier to entry along with a hedge.
+
 There will be tons of competition in the future but the dataset industry is so large that there are tons of different dataset types. Our datasets are advanced and focus on NLU which is one of the most valuable niches. We will then be expanding into datasets of all types including the ones you find on www.kaggle.com. The most important thing to keep in mind is that every industry now benefits from data, ML/AI/NLP/NLU. We will be moving into every industry vertical possible.
 
 Who are Vectorspace AI’s current partners/collaborators?
@@ -463,23 +466,31 @@ Who are Vectorspace AI’s current partners/collaborators?
 
 Amazon: “COVID-19 Drug Repurposing Datasets Now Available in Collaboration with Vectorspace AI, Amazon & Microsoft”
 https://www.prnewswire.com/news-releases/covid-19-drug-repurposing-datasets-now-available-in-collaboration-with-vectorspace-ai-amazon--microsoft-301030507.html
+
 CERN – European Organization for Nuclear Research: It is an academic collaboration based on datasets related to particle physics. We intend to apply what we learn in that area in an inter-disciplinary way to biosciences datasets.
 Cern’s Website: https://home.cern/
+
 CloudQuant: CloudQuant helps its customers around the world to boost their investment performance by providing valuable Alternative Data. Our partnership with CloudQuant aims to connect Vectorspace AI to more than 400 thousand investors. We’re working together to provide their customers with novel datasets that reveal hidden relationships between global equity products.
 “FinTech Innovators Partner to Turn NLP into Dollars”
 https://info.cloudquant.com/2020/12/vectorspace/ 
+
 Elastic: Elastic utilizes our datasets to showcase what can be done with the Elastic stack. 
 “Generating and visualizing alpha with Vectorspace AI datasets and Canvas”
 https://www.elastic.co/blog/generating-and-visualizing-alpha-with-vectorspace-ai-datasets-and-canvas
+
 LCX – The Liechtenstein Cryptoassets Exchange: The goal of the partnership is to build Smart Baskets for LCX Terminal to enable customized and unique trading opportunities across multiple cryptocurrencies across multiple exchanges, such as Liquid, Kraken, Coinbase Pro, Kucoin or Okex.
 “Partnering with Vectorspace AI to leverage Artificial Intelligence for crypto trading”
 https://www.lcx.com/partnering-with-vectorspace-ai-to-leverage-artificial-intelligence-for-crypto-trading
+
 Microsoft: “COVID-19 Drug Repurposing Datasets Now Available in Collaboration with Vectorspace AI, Amazon & Microsoft”
 https://www.prnewswire.com/news-releases/covid-19-drug-repurposing-datasets-now-available-in-collaboration-with-vectorspace-ai-amazon--microsoft-301030507.html
+
 Neudata: Neudata is a company dedicated to finding alpha-generating alternative data for investment professionals. They’re connecting data vendors like Vectorspace AI to hedge funds, investment firms, family offices and retail investors. In March 2021 we’re going to participate in their “Getting Started in Alternative Data” event, where we’ll present our services to investors worldwide. 
 Neudata’s Website: https://www.neudata.co/
+
 S&P Global: S&P Global is the world’s largest financial information provider and they are looking to companies Vectorspace AI to transform their data, raw crude oil, into datasets. Its primary areas of business are financial information and analytics. It is the parent company of S&P Global Ratings, S&P Global Market Intelligence, and S&P Global Platts, CRISIL, and is the majority owner of the S&P Dow Jones Indices joint venture. We are working with S&P Global to distribute our Smart Basket signals in addition to our datasets.
 S&P Global’s Website: https://www.spglobal.com/en/ 
+
 Trustology: It is a UK based FinTech company focused on providing high-end, insured custodial wallet solutions to secure and manage crypto assets in real-time, today announced its partnership with Vectorspace AI to make it safer, faster and easier for token purchasers to send, receive and hold its VXV tokens using TrustVault.
 “Trustology Partners with Crypto Token Issuer Vectorspace AI”
 https://trustology.io/vectorspace-ai-leads-with-trustologys-crypto-custodial-hot-wallet/
@@ -495,12 +506,10 @@ What is the current status on the pending Public Relations (PR) with Amazon, Mic
 
 They are in progress and that is all we can say at this time.
 
-
 Would Ocean Protocol not be an interesting partner for Vectorspace AI? Ocean offers data marketplaces, e.g., for healthcare (e.g., they collaborate with Roche). Vectorspace AI could thus either become a vendor of datasets on the ocean marketplace, or acquire proprietary data from other vendors for their datasets. 
 -------
 
 Yes, they would be but time and resources are currently focused on revenue generation at this time.
-
 
 Decentralized Finance (DeFi) is the big hype currently in the blockchain space. Could we see DeFi protocols using Vectorspace AI datasets and Smart Baskets for financial products in the future?
 -------
