@@ -20,11 +20,11 @@ A track record of leading large projects from concept to delivery, and brings ov
 - Raf Podowski, PhD (Chief Data Scientist)
 Scientist, engineer, text and data miner, artist. PhD, Bioinformatics with a focus on infectious disease including COVID-19 – Karolinska institute. https://www.linkedin.com/in/rpodowski
 
-We are a team with a deep background in science, technology and the financial markets,and are veteran software engineers, scientific and technical founders who work in the area of specialized algorithms in ML/AI for Life Sciences and the financial markets.
+We are a team with a deep background in science, technology and the financial markets, and are veteran software engineers, scientific and technical founders who work in the area of specialized algorithms in ML/AI for Life Sciences and the financial markets.
 
 Core team size: 21
 Scientific core team: 2
-Eng core: 5
+Eng. core: 5
 Design: 1
 QA, Testing & Curation: 1
 Corporate Dev: 1
@@ -146,14 +146,14 @@ Why did Vectorspace AI go the crypto route as opposed to traditional business ro
 
 “How Apple Influenced The Labels To Shut Down My Music Streaming Startup”
 https://medium.com/startup-frontier/steve-jobs-made-warner-music-sue-my-startup-9a81c5a21d68
-We had an offer for $120M for the company, then the economy crashed and while we were being litigated for $40 BILLION dollars brought on by Apple, Warner and EMI. So, we wound it down. Another thing happened when we had that offer, my investors started to try to push the negotiations higher and the other group started arguing with my investor about valuation while I was sitting right there. After that I decided that I would not let the valuation of my company be haggled over by 3 or for guys, I want the public to set the valuation of my next company. So, I got a public company listed and it was called Mimvi. This time I was going to have public market exposure and the ability to raise capital from the capital markets. It was hard to do but we got It done and eventually got it fully liquid by doing an investment deal with MSFT. However, we were restricted from doing many more things that we thought we could do based on over regulation of smaller companies vs the larger ones. We also ran into a few crooks. This is the other path we have taken.
+We had an offer for $120M for the company, then the economy crashed and while we were being litigated for $40 BILLION dollars brought on by Apple, Warner and EMI. So, we wound it down. Another thing happened when we had that offer, my investors started to try to push the negotiations higher and the other group started arguing with my investor about valuation while I was sitting right there. After that I decided that I would not let the valuation of my company be haggled over by three or four guys, I want the public to set the valuation of my next company. So, I got a public company listed and it was called Mimvi. This time I was going to have public market exposure and the ability to raise capital from the capital markets. It was hard to do but we got It done and eventually got it fully liquid by doing an investment deal with MSFT. However, we were restricted from doing many more things that we thought we could do based on over regulation of smaller companies vs the larger ones. We also ran into a few crooks. This is the other path we have taken.
 
 We gave it more thought and made a move into crypto in 2014 with something we called SongCoin, we were all over the media based on what we announced we were going to do for the music industry, you can read about it if you do a search for “songcoin pimovi”. Long story short our investor got panicked by what was happening in crypto with Mt. Gox and all. He was a 74-year-old Aussie named Max Grant. He ran a small traditional OTC company where its only assets were 4 or 5 oil wells down under and in Texas. He wanted me to start Pimovi and we would work together on SongCoin. He completed the financing but got spooked. So, we waited while one of the founding soft devs on the Namecoin team, Dylan Durst and myself spent a week at my house properly forking Bitcoin to SongCoin, full compiles. We needed funding to build wallets because back then, you had to build many things from scratch because nobody had any stable code worth using. We stopped work to try to figure out what we were going to do to protect this project. Meanwhile a guy named Michael Prince forked bitcoin and labeled it SongCoin – he basically ripped us off and he listed on Cryptopia and got CMC to start quoting him. I approached him in email and have the thread if anyone would like to see. At any rate, we hunkered down while BTC was crashing and then I was approached by my original SeeqPod investor. He asked what I was up to and I mentioned NLP and bots, maybe bots that teach people how to buy crypto. He then said “what is crypto” so I told him to go to coinmarketcap.com and call, then we can talk about what I am doing. So, I get a call from him at 5:30am the next morning and his excitement level is off the charts. He then asked if I could start a crypto company.
 
 We started a company called Starmine.ai – it was designed to be a dataset company pure and simple. Long story short on this one, our investor got spooked by how traceable everything is on the blockchain and never came through with the funding so I took the team and the company and said, we are going to start vectorspace.ai and rely on smarter investors while we beef up the dataset side and add more feature vector options with real-time data, and here we are, sitting here with all you fine folks.
 While we were doing all of the above in 2014-2017, we were also consulting for a hedge fund, Artiman Capital in Palo Alto CA.
 
-We also have a background in the financial markets based on the aggleonal going back since 1997 when I made my first trade which was 2000 shares of SCOC, (Santa Cruz Operations) they were trying to make money on licensing their version of Unix called Xenix, which I was learning at the time as well. We ran it in a small real estate management firm called K&S in Albany which is next door to Berkeley where I grew up born and raised, several generations back. My uncle was a mechanical engineer in Idaho and my dad was a tinkerer. They got together one time and though it would be a good idea if they bought us a clone computer that we would put together ourselves. I got 4 of them and only got 1 working. Long story short, we have a deep history in software engineering and data engineering. Specialties in machine learning and data engineering combined with a deep knowledge of the financial markets, we think crypto is the perfect vehicle for exposing a trading vehicle to a truly global marketplace. We want to combine AI with crypto in a smart way and we think we have done so.
+We also have a background in the financial markets based on the traditionals going back since 1997 when I made my first trade which was 2000 shares of SCOC, (Santa Cruz Operations) they were trying to make money on licensing their version of Unix called Xenix, which I was learning at the time as well. We ran it in a small real estate management firm called K&S in Albany which is next door to Berkeley where I grew up born and raised, several generations back. My uncle was a mechanical engineer in Idaho and my dad was a tinkerer. They got together one time and though it would be a good idea if they bought us a clone computer that we would put together ourselves. I got 4 of them and only got 1 working. Long story short, we have a deep history in software engineering and data engineering. Specialties in machine learning and data engineering combined with a deep knowledge of the financial markets, we think crypto is the perfect vehicle for exposing a trading vehicle to a truly global marketplace. We want to combine AI with crypto in a smart way and we think we have done so.
 
 We have also moved a lot of money around in the traditional markets and we have helped people including hedge funds and family offices to move money in smart ways. It boosts our reputation which is good because they are back when we need them.
 
@@ -175,7 +175,7 @@ CoinMetro: https://coinmetro.com/
 
 Probit Exchange: https://www.probit.com/app/exchange/VXV-BTC
 
-UniSwap:https://uniswap.info/pair/0x0c9C5DAF1D7CD8B10e9fC5e7a10762f0a8d1C335
+UniSwap: https://uniswap.info/pair/0x0c9C5DAF1D7CD8B10e9fC5e7a10762f0a8d1C335
 
 Tracking Tools:
 
@@ -209,7 +209,7 @@ What does Vectorspace AI offer, in layman’s terms?
 
 Vectorspace AI’s algorithms look at data and find hidden similarities which can be applied to many types of businesses. We algorithmically generate millions of dataset permutations in real-time. These datasets are the ‘gasoline’ used to power unsupervised learning approaches in AI/ML. Specifically, they are used to:
 
-A) make money, a.k.a generate or protect alpha on the long and short side with traditionals and cryptos. For instance, hedge funds would use it to monitor stock prices - if Vectorspace AI finds that when X stock price rises/falls, Y and Z also fall. The fund manager can then react before that happens to avoid losing money. 
+A) make money, a.k.a. generate or protect alpha on the long and short side with traditionals and cryptos. For instance, hedge funds would use it to monitor stock prices - if Vectorspace AI finds that when X stock price rises/falls, Y and Z also fall. The fund manager can then react before that happens to avoid losing money. 
 
 “Dexamethasone Announcement Could Have Made Hedge Funds A Fortune”
 https://www.alpha-week.com/dexamethasone-announcement-could-have-made-hedge-funds-fortune
@@ -268,7 +268,7 @@ What is the upper limit of position sizes that Vectorspace AI tested/back-tested
 
 We have tested in simulated markets with 1 million dollars per basket. You can back test and test in a simulated market environment with buy and sell pressure but this is nothing like the real thing. The real markets are slightly different which is why we plan to trade our internal proprietary baskets ourselves.
 
-In an unfiltered basket do the stock ticker symbols come up in any specific order, i.e., from best option to worst or vice versa? In other words, would the best one show up 1st in line?
+In an unfiltered basket do the stock ticker symbols come up in any specific order, i.e., from best option to worst or vice versa? In other words, would the best one shows up 1st in line?
 -------
 
 Yes, they are ranked/scored based on the strength of the relationship. They are unfiltered because the relationships are not context controlled or directional.
@@ -327,7 +327,7 @@ What is Vectorspace AI’s total addressable market?
 
 Billions. This is because we are a data company with a focus on revenue generating customers, which are trillion-dollar asset management companies, funds and other financial institutions. Our job is to help them make money by providing them with an edge. This happens based on our product, NLP/NLU on-demand datasets that are updated every minute and based on any data they choose. 
 
-This includes transacting dataset updates along with our Data Pipeline Provenance (DPP) hash which controls data lineage (a.k.a data provenance). Knowing where your data comes from and knowing how reliable it is, is extremely important to financial institutions that rely on it to make billion-dollar decisions every day. We give financial institutions an edge that to them, is worth billions. Here we are talking about one example in the finance industry, but our platform has applications in almost all industry verticals. 
+This includes transacting dataset updates along with our Data Pipeline Provenance (DPP) hash which controls data lineage (a.k.a. data provenance). Knowing where your data comes from and knowing how reliable it is, is extremely important to financial institutions that rely on it to make billion-dollar decisions every day. We give financial institutions an edge that to them, is worth billions. Here we are talking about one example in the finance industry, but our platform has applications in almost all industry verticals. 
 
 What is the upper limit of dataset updates/combinations Vectorspace AI can provide?
 -------
@@ -506,7 +506,7 @@ Amazon: “COVID-19 Drug Repurposing Datasets Now Available in Collaboration wit
 https://www.prnewswire.com/news-releases/covid-19-drug-repurposing-datasets-now-available-in-collaboration-with-vectorspace-ai-amazon--microsoft-301030507.html
 
 CERN – European Organization for Nuclear Research: It is an academic collaboration based on datasets related to particle physics. We intend to apply what we learn in that area in an inter-disciplinary way to biosciences datasets.
-Cern’s Website: https://home.cern/
+CERN’s Website: https://home.cern/
 
 CloudQuant: CloudQuant helps its customers around the world to boost their investment performance by providing valuable Alternative Data. Our partnership with CloudQuant aims to connect Vectorspace AI to more than 400 thousand investors. We’re working together to provide their customers with novel datasets that reveal hidden relationships between global equity products.
 “FinTech Innovators Partner to Turn NLP into Dollars”
