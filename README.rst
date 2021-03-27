@@ -81,7 +81,7 @@ What is the current circulating supply of VXV?
 ------------
 
 We need to subtract the amount in the team’s wallet from the total supply, so:
-50,000,000 VXV – ~18,500,000 VXV = ~31,500,000 VXV, updated on 02/13/2020.
+50,000,000 VXV – ~18,500,000 VXV = ~31,500,000 VXV, updated on 02/13/2021.
 
 When will the correct circulating supply be reflected on Coinmarketcap, Coingecko etc.?
 ----------
@@ -92,7 +92,7 @@ What is the current market cap of VXV?
 -------
 
 We need to multiply the current circulating supply by the current token price, so:
-~31,500,000 VXV * $0.78 = $24,570,000, updated on 02/13/2020.
+~31,500,000 VXV * $0.78 = $24,570,000, updated on 02/13/2021.
 
 Was there an ICO?
 -------
@@ -103,7 +103,9 @@ How can the company run for over 3 years with limited raised capital?
 -------
 
 We have run startups before and with a burn of $650k per month. We also know how to run very lean and scrappy. In part, we can do this because we are working on tip of the spear science and technology which attracts talent for reasons beyond the cash.
+
 All of the heavy work is already done. As a team we like doing the hard parts first. This is the reason we have multiple products releases now and in the past. A to Z execution, that is what our track record shows.
+
 We adapt to cheap, low maintenance and smart money along with the market and our customers. This means we operate on their schedules not our own.
 
 What is the token distribution?
@@ -115,15 +117,15 @@ How often does the circulating supply increase?
 -------
 
 The supply is only to increase when absolutely necessary. We know a healthy amount about the dynamics of circulating supplies and its effects on price movements – this is called the ‘float’ in the traditional markets and you want your float as low as possible and not bloated. The majority of cryptos out there have far too many of their tokens in their circulating supply and that prevents them from running. This also connects to how your overall capitalization table is structured.
+
 We are not a typical crypto “team”. We function as a startup similar to the ones you find in Silicon Valley. We plan to use the founding team’s tokens to move the company forward in any way necessary, including engineering, strategic IR/PR, customer support and whatever it takes to get to revenue and then profitability.
 
 What is the purpose of the VXV token?
 -------
 
 The token can be used to pay for a subscription to access Vectorspace AI’s services, although customers can also pay for these subscriptions with USD, ETH, or BTC. Beyond payments, the tokens wallet address serves as an API key for the distribution of datasets. From a software engineering standpoint wallet addresses function exactly the same way API keys do. This allows the distribution of datasets to be seamless and allows our customers to utilize the highest level of data integrity. Finally, and arguably most importantly, the token is utilized in our Data Provenance Pipeline.
-Data Provenance is essentially the life cycle of data. It is used to track the origin of data, the source of data, what computations were conducted on that data, and provides the framework for troubleshooting issues amongst datasets. On a blockchain, all transactions are natively hashed. This means that our data
-9
-provenance pipeline has the highest level of data integrity and transparency. As an added bonus, the native hashing on blockchains makes the troubleshooting cycle much easier by allowing developers to easily identify duplicate data sources or discover issues in the calculation of their datasets. We understand that crypto currencies are difficult to utilize and we have made it easy for our customers to utilize the benefits without having to deal with their own custody via our partnership with Trustology.
+
+Data Provenance is essentially the life cycle of data. It is used to track the origin of data, the source of data, what computations were conducted on that data, and provides the framework for troubleshooting issues amongst datasets. On a blockchain, all transactions are natively hashed. This means that our data provenance pipeline has the highest level of data integrity and transparency. As an added bonus, the native hashing on blockchains makes the troubleshooting cycle much easier by allowing developers to easily identify duplicate data sources or discover issues in the calculation of their datasets. We understand that crypto currencies are difficult to utilize and we have made it easy for our customers to utilize the benefits without having to deal with their own custody via our partnership with Trustology.
 
 Why do the team’s tokens move to a new wallet from time to time?
 -------
@@ -164,15 +166,23 @@ On what exchanges and tracking tools is VXV currently available?
 -------
 
 Exchanges:
+
 CoinMetro: https://coinmetro.com/ 
+
 Probit Exchange: https://www.probit.com/app/exchange/VXV-BTC
+
 UniSwap:https://uniswap.info/pair/0x0c9C5DAF1D7CD8B10e9fC5e7a10762f0a8d1C335
 
 Tracking Tools:
+
 CoinMarketCap: https://coinmarketcap.com/currencies/vectorspace-ai/
+
 CoinGecko: https://www.coingecko.com/en/coins/vectorspace-ai
+
 Blockfolio: https://blockfolio.com/
+
 The Crypto App: https://thecrypto.app/
+
 Delta App: https://delta.app/en
 
 What is the current exchange listing strategy?
@@ -184,6 +194,7 @@ Why did the token get delisted from IDEX in January 2020?
 -------
 
 We requested IDEX to delist our token. This related to what our customers (hedge funds, asset management companies, traders and investors) were concerned with which connects to U.S. customers accessing through the Tor browser along with bot arbitrage against their position with VXV. 
+
 We have extracted some data points from this strategic maneuver and have since relisted on IDEX (July 2020).
 
 Technology
@@ -194,7 +205,7 @@ What does Vectorspace AI offer, in layman’s terms?
 
 Vectorspace AI’s algorithms look at data and find hidden similarities which can be applied to many types of businesses. We algorithmically generate millions of dataset permutations in real-time. These datasets are the ‘gasoline’ used to power unsupervised learning approaches in AI/ML. Specifically, they are used to:
 
-A)	make money, a.k.a generate or protect alpha on the long and short side with traditionals and cryptos. For instance, hedge funds would use it to monitor stock prices - if Vectorspace AI finds that when X stock price rises/falls, Y and Z also fall. The fund manager can then react before that happens to avoid losing money. 
+A) make money, a.k.a generate or protect alpha on the long and short side with traditionals and cryptos. For instance, hedge funds would use it to monitor stock prices - if Vectorspace AI finds that when X stock price rises/falls, Y and Z also fall. The fund manager can then react before that happens to avoid losing money. 
 
 “Dexamethasone Announcement Could Have Made Hedge Funds A Fortune”
 https://www.alpha-week.com/dexamethasone-announcement-could-have-made-hedge-funds-fortune
@@ -202,19 +213,20 @@ https://www.alpha-week.com/dexamethasone-announcement-could-have-made-hedge-fund
 “Generating Alpha from Information Arbitrage in the Financial Markets with NLP Datasets: 水涨船高”
 https://medium.com/hackernoon/profiting-from-information-arbitrage-in-the-financial-markets-3abfca9806d8
 
-B)	increase the speed of innovation, novel scientific breakthroughs and enable scientific discoveries. 
-Similarly, for a pharmaceutical company, Vectorspace AI could identify hidden and non-hidden relationships between the effects of drug compounds on certain conditions. In other words, Information that shows drug X, which is used to treat a condition, actually has benefited many patients with different conditions - or just as importantly, has a poor outcome for patients with certain conditions. In effect the “Smart Baskets” give companies a huge early advantage (known as information arbitrage or alpha). 
+B) increase the speed of innovation, novel scientific breakthroughs and enable scientific discoveries. Similarly, for a pharmaceutical company, Vectorspace AI could identify hidden and non-hidden relationships between the effects of drug compounds on certain conditions. In other words, Information that shows drug X, which is used to treat a condition, actually has benefited many patients with different conditions - or just as importantly, has a poor outcome for patients with certain conditions. In effect the “Smart Baskets” give companies a huge early advantage (known as information arbitrage or alpha). 
 
 “COVID-19 Drug Repurposing Datasets Now Available in Collaboration with Vectorspace AI, Amazon & Microsoft”
 https://www.prnewswire.com/news-releases/covid-19-drug-repurposing-datasets-now-available-in-collaboration-with-vectorspace-ai-amazon--microsoft-301030507.html 
 
 COVID-19 Dataset Builder: https://vectorspace.ai/covid19.html 
+
 Vectorspace AI services more than just the financial vertical defined by cryptos and traditional market vehicles. Our platform has applications in almost all industry verticals.
 
 Why is the code not open source?
 -------
 
 Github is private to protect algorithms and code. We have been software engineers since we have been kids in the 80’s. We are not going to allow other organizations pretend they are auditing our code while also paying them tons of ETH. That is one reason.
+
 From our CEO: “I have dealt with my fair share of outside auditors while running a public company. I have also been through a few major software audits run by security firms (which we have done work for in the past) and standard software auditing done by firms like PwC. Auditing software is completely different from auditing your books.”
 
 What are Smart Baskets?
@@ -271,14 +283,23 @@ What is the revenue model?
 -------
 
 We offer a paid subscription where we have dozens of different tiered levels of service offerings, similar to Netflix, mixed with Amazon, but for datasets. We offer $0.99c updates per dataset per data source per minute per context which drives the revenue model. 
+
 Customers can pay in fiat or crypto (BTC/ETH), then 50% of the subscription value will be bought in VXV on the open market that will be placed in the customer’s wallet and assigned to a number of services (dataset, Smart Baskets etc.). As they use the services, the VXV is used up. For instance, generating Smart Baskets from the datasets to find hidden correlations using the Vectorspace AI algorithms uses up the VXV. They are then locked up for a period of time. This period of time has yet to be determined.
+
 The other 50% will work as a “fee” that translates to revenue. Revenue will be used to build the company which increases its valuation and impact in the world. We are sharing the fee. It is like a revenue share with the public. Please note that the percentage of the “fee” is adjustable, so it could be changed in the future.
+
 Some might sign up for datasets and some sign up for datasets that have pre-generated Smart Baskets they can immediately trade. Datasets -> clusters -> Smart Baskets of all kinds. 
+
 Imagine company A pays Vectorspace AI 100k$ per month for certain datasets that are updated at a certain frequency. 
+
 Behind the scenes, 50% of that flows to Vectorspace AI to pay for operating costs and expansion. It is gross revenue.
+
 The other 50% is used to set limited buy orders on the open market for VXV at certain price levels. 
+
 This creates liquidity pools at these price levels. If someone sells, these orders can get triggered. If these limited buy orders are triggered, 50% goes to Vectorspace AI, and 50% to a customer wallet. This customer wallet is controlled by Vectorspace AI, through our partner Trustology. By having the customer wallet, the circulating supply of VXV is reduced.
+
 This process can change as needed.
+
 A revenue projection can be seen on page 14 of our deck: 
 https://vectorspace.ai/assets/VXV_Deck_External.pdf
 
@@ -286,23 +307,28 @@ Why is the token valuable?
 -------
 
 The value created by our community which includes the core team, the outside team and contributing members of our global community, translates directly into the value of the VXV utility token and as a global public trading vehicle.
+
 VXV utility tokens do not function like a security or currency and share only minor similarities with e.g., Google Cloud credits, AWS credits, or WeWork utility credits due to VXV doubling as a public trading vehicle in a global public marketplace.
+
 Our top-tier proprietary datasets and algorithms deployed in the financial markets that enable asset management groups, hedge funds and institutions to generate and capture alpha, can only be used by a limited number of customers. In this business, it is a common requirement from our top-tier customers to prevent saturating the market. It is like giving everybody the exact same weapons. This means the value of VXV is controlled by our customers, who will also be taking long term positions in VXV. It only makes sense and it is out of our control.
+
 In order to serve our customers properly, we have carved out a public marketplace which allows them to acquire blocks of VXV and out-bid other customers if they would like to ‘corner the market’ on particular proprietary datasets. 
+
 The VXV utility token credit also doubles as a global public trading vehicle available to be transacted, acquired, bought and sold between anyone, including speculators, in the global public crypto markets via exchanges. This means a farmer in Kenya or a villager in Borneo can acquire VXV to access a dataset one minute and resell VXV to a trillion-dollar asset management company the next minute in exchange for “JPM coin” for example. This is completely out of our control.
- As mentioned in question 30, we have plans on enabling machines (data engineering pipelines onsite at customer locations) to transact VXV with one another for the purpose of ‘minimizing loss’ which is at the core of effective ML/AI.
+
+As mentioned in question 30, we have plans on enabling machines (data engineering pipelines onsite at customer locations) to transact VXV with one another for the purpose of ‘minimizing loss’ which is at the core of effective ML/AI.
 
 What is Vectorspace AI’s total addressable market?
 -------
 
 Billions. This is because we are a data company with a focus on revenue generating customers, which are trillion-dollar asset management companies, funds and other financial institutions. Our job is to help them make money by providing them with an edge. This happens based on our product, NLP/NLU on-demand datasets that are updated every minute and based on any data they choose. 
+
 This includes transacting dataset updates along with our Data Pipeline Provenance (DPP) hash which controls data lineage (a.k.a data provenance). Knowing where your data comes from and knowing how reliable it is, is extremely important to financial institutions that rely on it to make billion-dollar decisions every day. We give financial institutions an edge that to them, is worth billions. Here we are talking about one example in the finance industry, but our platform has applications in almost all industry verticals. 
 
 What is the upper limit of dataset updates/combinations Vectorspace AI can provide?
 -------
 
 We currently charge $0.99c per dataset per update. We have an infinite combination of dataset permutations, combinations, and customizations. Our data engineering pipelines are being prepared to scale toward updating deltas per dataset permutations which would mean anytime a data point changes it gets reflected in the dataset. This level of customization is available today on a case-by-case basis.
-
 
 There are different On-Demand Price Tiers for Vectorspace AI, ranging from free to institutional. How has the feedback been from potential clients using the free tier? 
 -------
@@ -328,14 +354,15 @@ In the case of someone paying $100k, is it all automated in the sense that $50k 
 -------
 
 Yes, and that is where it gets interesting, we can use a few algorithms to monitor sensitivity on the ask side, sell pressure, and even a few overbought or oversold indicators, e.g., the 10 day Moving Average Convergence Divergence indicator (MACD), while placing limit orders to support new legs up.
+
 We would essentially be serving as our own Market Maker (MM) and an Ax, with a fiduciary responsibility to maintain an orderly market, which is the primary mandate for a MM, for the sake of our customers and market participants.
 
 Will it be possible to resell subscriptions?
 -------
 
 Yes, we expect some customers will want to resell their VXV subscriptions and wallets at higher valuations to any bidder.
-We also anticipate experts and specialists to come in, build powerful and unique datasets, subscribe to them and lease them out to other funds they consult with.
 
+We also anticipate experts and specialists to come in, build powerful and unique datasets, subscribe to them and lease them out to other funds they consult with.
 
 How will the subscriptions change value if it is worth $0,99c per minute?
 -------
@@ -361,7 +388,9 @@ How is the onboarding process for the customers that are not familiar with crypt
 -------
 
 Currently, we are hand holding our customers on a case-by-case basis as we engage in customer onboarding and discovery. This enables feedback to be quickly flushed out enabling immediate course correction.
+
 If companies are not willing to enter cryptocurrency markets, they have the option to pay with fiat (or their preferred currency) through our partner Trustology.  
+
 One of the hurdles we have experienced, is related to simplifying the entire cryptocurrency onboarding effort. We learned a lot during our roadshow in New York City and we have found that most institutions simply face the difficulty with entering the cryptocurrency space to be too overwhelming. Trustology was a major component in this ongoing effort to remove friction and provide a better experience for our customers. 
 
 What happens to the VXV in the customer’s wallet when the customer decides to stop their subscription?
@@ -383,6 +412,7 @@ Why the need of a token instead of a normal fiat subscription?
 -------
 
 Machines incentivized to transact feature vectors for the purpose of minimizing loss (or increasing signal/alpha) is one of our goals. We have opened up a few of our API services to the public that will help accomplish this. At the same time, there is a small cost we absorb associated with each API call related to CPU, cloud services, bandwidth, storage etc. Using token wallet-enabled APIs enables us to rate limit, cover costs and provide unlimited tiers of services based on token amounts held in the wallet-enabled API keys. As tokens are essentially programmable, that opens up a world of possibilities in terms of funding and supporting our research, products and customers.
+
 In addition to that, placing changes in data and changes in calculations is customer requirement and we handle via the Data Provenance Pipeline (DPP) hash as described in our VXV wallet-enabled utility token credit network on slide 10 in our main deck. Data provenance on chain combined with the fact that programmable money is key innovation. It is almost just as important for us to maintain a public trading vehicle with access to a new and truly global capital market place for ourselves and our customers. Data provenance and lineage is extremely important to our customers and to the process of constructing datasets.
 
 Why is VXV not a stable coin pegged to the dollar? 
@@ -393,17 +423,17 @@ VXV is not meant to be a currency, it is a utility token, designed to appreciate
 Partnerships, Customers, and M&As
 ========
 
-
 If a Mergers and Acquisitions (M&A) event was to occur, what would happen to token holders? 
 -------
 
 In the case of an M&A event or strategic investment by one of our customers, or outside companies or investors, the VXV utility token will be the most valuable asset they acquire related to this company. This is if we allow any M&A in the first place of course. This is how we have financially engineered, structured and positioned Vectorspace AI.
+
 VXV will be transacted in terms of all buyouts before the close of any M&A event, particularly an acquisition. We will allow anything else to happen but for all VXV to be transacted before a close for the following reasons:
+
 A) This is critical for the current structure and design of the revenue model to work (which we have put a lot of thought into).
 B) Critical for the core team that has been with the company for the last 18 years through thick and thin. 
 D) Critical for other investors 
 E) Critical for all stakeholders
-
 
 Considering the potential of an acquisition by S&P Global or a similar suitor, what is stopping the acquirer from scalping out the tech and moving on with it, leaving the VXV token useless? In other words, token necessity can create frictions on the corporate side for potential clients (limited liquidity, custody issues, etc.).
 -------
@@ -420,19 +450,23 @@ Will VXV still be needed and remain valuable if the traditional market gets hit 
 -------
 
 We are hedged in more ways than one.  We are offering, e.g.:
+
 a) Short Smart Baskets of traditional where some will be hedged with options or long on the SPYs. 
 b) We will have an entire offering of Long Smart Baskets of crypto. 
 c) Long crypto, short traditional hybrid Smart Baskets. 
 d) Datasets are customized to whatever the client wants. 
 e) We will be additionally hedged by initially offering datasets in the Life Science industry. 
- f) Any other industry. 
+f) Any other industry. 
+
 It Is good to be in AI.
 
 How will VXV prioritize data access among users, keeping in mind that alpha could be fully exploited by the first mover thus rendering the data moot?
 -------
 
 There are unlimited ways a dataset can be created and unlimited ways one can construct a Smart Basket from a particular dataset. We have been in the business of datasets for a very long time. This means that other companies are attracted to what we do because it gives them an edge and a way to attract more customers to their platforms. They rely on us to do this.
+
 Signal to noise extraction especially in NLP/NLU is about the variety of data sources, the data engineering pipeline and how you calculate scores for feature attributes within vectors in addition to many different ways you can calculate distance between vectors.
+
 Most alpha is extracted from the data engineering pipeline in combination with trade execution methods. Data engineers know exactly how to “create clusters” and do all the different kinds of things to extract value from a dataset.
 
 How many datasets is Vectorspace AI able to provide?
@@ -457,9 +491,9 @@ What places Vectorspace AI ahead of its competitors?
 -	knowledge expertise in the public markets, 
 -	and decades of experience in data science (previously known as data/knowledge/text mining and epigraphy) and data engineering.
 
-  The VXV approach for those platforms is unique in the industry for dataset exposure in several ways. These trade secrets also double as our moats and barrier to entry along with a hedge.
+The VXV approach for those platforms is unique in the industry for dataset exposure in several ways. These trade secrets also double as our moats and barrier to entry along with a hedge.
 
-  There will be tons of competition in the future but the dataset industry is so large that there are tons of different dataset types. Our datasets are advanced and focus on NLU which is one of the most valuable niches. We will then be expanding into datasets of all types including the ones you find on www.kaggle.com. The most important thing to keep in mind is that every industry now benefits from data, ML/AI/NLP/NLU. We will be moving into every industry vertical possible.
+There will be tons of competition in the future but the dataset industry is so large that there are tons of different dataset types. Our datasets are advanced and focus on NLU which is one of the most valuable niches. We will then be expanding into datasets of all types including the ones you find on www.kaggle.com. The most important thing to keep in mind is that every industry now benefits from data, ML/AI/NLP/NLU. We will be moving into every industry vertical possible.
 
 Who are Vectorspace AI’s current partners/collaborators?
 -------
