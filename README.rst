@@ -570,7 +570,7 @@ Vectorspace AI Datasets
 https://vectorspace.ai/dataset-services.html
 
 “Predicting Future Correlations between Equities”
-Predicting Future Correlations between Equities | by Vectorspace AI | Medium
+https://medium.com/@492727ZED/datasets-with-context-control-e867d600b0
 
 “COVID-19 Drug Repurposing Datasets Now Available in Collaboration with Vectorspace AI, Amazon & Microsoft”
 https://www.prnewswire.com/news-releases/covid-19-drug-repurposing-datasets-now-available-in-collaboration-with-vectorspace-ai-amazon--microsoft-301030507.html?tc=eml_cleartime 
@@ -591,7 +591,7 @@ https://medium.com/hackernoon/crypto-at-lightspeed-a-notable-vc-firm-is-raising-
 https://www.wuwm.com/post/computer-programs-choose-buy-or-sell-wall-street-looks-data#stream/0
 
 “How Google is Entering the Cryptocurrency Space”
-How Google is Entering the Cryptocurrency Space | by Danni Biller
+https://blog.usejournal.com/google-entering-the-blockchain-space-f418793e1cb4
 
 Partnerships
 -------
@@ -603,7 +603,7 @@ https://www.prnewswire.com/news-releases/covid-19-drug-repurposing-datasets-now-
 https://info.cloudquant.com/2020/12/vectorspace/ 
 
 “Generating and visualizing alpha with Vectorspace AI datasets and Canvas”
-Visualizing alpha with Vectorspace AI datasets and Elasticsearch
+https://www.elastic.co/blog/generating-and-visualizing-alpha-with-vectorspace-ai-datasets-and-canvas
 
 “Vectorspace AI Datasets are Now Available to Power Machine Learning (ML) and Artificial Intelligence (AI) Systems in Collaboration with Elastic”
 https://www.prnewswire.com/news-releases/vectorspace-ai-datasets-are-now-available-to-power-machine-learning-ml-and-artificial-intelligence-ai-systems-in-collaboration-with-elastic-300991397.html
@@ -618,7 +618,7 @@ Podcast/Video Interviews
 -------
 
 Mr. Backward's Podcast featuring Kasian Franks
-www.sptfy.com/dp1k 
+https://www.sptfy.com/dp1k 
 
 All Things Interesting Podcast featuring Kasian Franks
 https://open.spotify.com/show/0g04bF9BWERpGBMUFcW7Sj?si=xrWiO6wFTwKCHxUWSPQjmg
