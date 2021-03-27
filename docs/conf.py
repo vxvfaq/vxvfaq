@@ -150,7 +150,7 @@ html_static_path = ['_static']
 #html_additional_pages = {}
 
 # If false, no module index is generated.
-#html_domain_indices = True
+#html_domain_indices = False
 
 # If false, no index is generated.
 #html_use_index = True
@@ -162,7 +162,7 @@ html_static_path = ['_static']
 #html_show_sourcelink = True
 
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
-#html_show_sphinx = True
+#html_show_sphinx = False
 
 # If true, "(C) Copyright ..." is shown in the HTML footer. Default is True.
 #html_show_copyright = True
@@ -197,7 +197,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'ReadtheDocsTemplate.tex', u'VXV Community FAQ',
-   u'Read the Docs', 'manual'),
+   u'VXV Community', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -227,7 +227,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'readthedocstemplate', u'VXV Community FAQ',
-     [u'Read the Docs'], 1)
+     [u'VXV Community'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -241,7 +241,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'ReadtheDocsTemplate', u'VXV Community FAQ',
-   u'Read the Docs', 'ReadtheDocsTemplate', 'One line description of project.',
+   u'VXV Community', 'ReadtheDocsTemplate', 'One line description of project.',
    'Miscellaneous'),
 ]
 
