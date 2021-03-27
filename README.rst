@@ -112,7 +112,7 @@ We adapt to cheap, low maintenance and smart money along with the market and our
 What is the token distribution?
 -------
 
-.. image:: https://postimg.cc/qz19CPzq
+.. image:: /docs/distribution.png
    :width: 600 
 
 The team`s founding tokens have a 4 years lockup period. Only team members and certain partners are locked or vested. We will have more updates on the number of locked/vested tokens in the future.
