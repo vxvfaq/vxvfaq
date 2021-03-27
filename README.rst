@@ -457,9 +457,9 @@ What places Vectorspace AI ahead of its competitors?
 -	knowledge expertise in the public markets, 
 -	and decades of experience in data science (previously known as data/knowledge/text mining and epigraphy) and data engineering.
 
-The VXV approach for those platforms is unique in the industry for dataset exposure in several ways. These trade secrets also double as our moats and barrier to entry along with a hedge.
+  The VXV approach for those platforms is unique in the industry for dataset exposure in several ways. These trade secrets also double as our moats and barrier to entry along with a hedge.
 
-There will be tons of competition in the future but the dataset industry is so large that there are tons of different dataset types. Our datasets are advanced and focus on NLU which is one of the most valuable niches. We will then be expanding into datasets of all types including the ones you find on www.kaggle.com. The most important thing to keep in mind is that every industry now benefits from data, ML/AI/NLP/NLU. We will be moving into every industry vertical possible.
+  There will be tons of competition in the future but the dataset industry is so large that there are tons of different dataset types. Our datasets are advanced and focus on NLU which is one of the most valuable niches. We will then be expanding into datasets of all types including the ones you find on www.kaggle.com. The most important thing to keep in mind is that every industry now benefits from data, ML/AI/NLP/NLU. We will be moving into every industry vertical possible.
 
 Who are Vectorspace AI’s current partners/collaborators?
 -------
