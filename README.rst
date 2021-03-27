@@ -52,6 +52,7 @@ What is the token symbol?
 -------
 
 The symbol is VXV and the token address is: 0x7D29A64504629172a429e64183D6673b9dAcbFCe
+
 https://etherscan.io/token/0x7D29A64504629172a429e64183D6673b9dAcbFCe
 
 When was VXV token created?
