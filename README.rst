@@ -22,21 +22,20 @@ Scientist, engineer, text and data miner, artist. PhD, Bioinformatics with a foc
 
 We are a team with a deep background in science, technology and the financial markets, and are veteran software engineers, scientific and technical founders who work in the area of specialized algorithms in ML/AI for Life Sciences and the financial markets.
 
-Core team size: 21
-Scientific core team: 2
-Eng. core: 5
-Design: 1
-QA, Testing & Curation: 1
-Corporate Dev: 1
-Sales & Marketing: 2
-6
-Operations: 2
-Administration: 1
-Operations: 1
-PR: 2
-IR: 1
-Legal: 1
-Finance: 1
+- Core team size: 21
+- Scientific core team: 2
+- Eng. core: 5
+- Design: 1
+- QA, Testing & Curation: 1
+- Corporate Dev: 1
+- Sales & Marketing: 2
+- Operations: 2
+- Administration: 1
+- Operations: 1
+- PR: 2
+- IR: 1
+- Legal: 1
+- Finance: 1
 
 Where is Vectorspace AI located?
 -------
