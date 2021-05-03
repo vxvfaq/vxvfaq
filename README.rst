@@ -6,6 +6,7 @@ What is Vectorspace AI?
 --------
 
 Vectorspace AI is a data-focused crypto startup, the easiest way to understand what we do would be to jump right into it by observing a real-life event that resulted in an opportunity to profit based on our Natural Language Processing and Understanding (NLP/NLU) real-time datasets and connected to what is called ‘information arbitrage’.
+
 Our platform, which includes datasets and products that can be built on top of them, enable known and hidden relationship detection in data. Our datasets can be used to cluster entities that have known and hidden relationships to outside events, global trends or news. These clusters can represent networks of suppliers, companies working on similar drugs or any entity that might have symbiotic, parasitic or sympathetic latent entanglement with another entity, event or global trend.
 
 Who is the team?
