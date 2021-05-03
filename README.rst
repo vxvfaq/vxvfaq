@@ -38,6 +38,8 @@ We are a team with a deep background in science, technology and the financial ma
 - Legal: 1
 - Finance: 1
 
+The team size is rapidly growing to keep up with the increasing number of new client’s requests. You can view the current open positions at https://vectorspace.ai/careers.html.
+
 Where is Vectorspace AI located?
 -------
 
@@ -63,7 +65,7 @@ When was VXV token created?
 Is there an updated roadmap?
 -------
 
-We provide an updated roadmap once a week on Monday at 1pm PST after the traditional markets close in the form of a corporate executive conference call. The calls are available in the main Telegram group and in our site, in this link: https://vectorspace.ai/conf-calls.html
+We provide an updated roadmap once a week on Thursday after the traditional markets close in the form of a corporate executive conference call. The calls are available at https://vectorspace.ai/conf-calls.html
 
 Is the team planning on building a new website and possibly touching up the branding?
 -------
@@ -82,18 +84,18 @@ What is the current circulating supply of VXV?
 ------------
 
 We need to subtract the amount in the team’s wallet from the total supply, so:
-50,000,000 VXV – ~18,500,000 VXV = ~31,500,000 VXV, updated on 02/13/2021.
+50,000,000 VXV – ~16,800,000 VXV = ~33,200,000 VXV, updated on 04/13/2020.
 
 When will the correct circulating supply be reflected on Coinmarketcap, Coingecko etc.?
 ----------
 
-We are aware of it, and we are working to get this updated in compliance with CMC’s criteria for listing the circulating supply.
+We are aware of it, and we are working to get this updated in compliance with these pages’s criteria for listing the circulating supply.
 
 What is the current market cap of VXV?
 -------
 
 We need to multiply the current circulating supply by the current token price, so:
-~31,500,000 VXV * $0.78 = $24,570,000, updated on 02/13/2021.
+~33,200,000 VXV * $2.28 = $75,696,000, updated on 04/13/2020.
 
 Was there an ICO?
 -------
@@ -130,6 +132,20 @@ What is the purpose of the VXV token?
 The token can be used to pay for a subscription to access Vectorspace AI’s services, although customers can also pay for these subscriptions with USD, ETH, or BTC. Beyond payments, the tokens wallet address serves as an API key for the distribution of datasets. From a software engineering standpoint wallet addresses function exactly the same way API keys do. This allows the distribution of datasets to be seamless and allows our customers to utilize the highest level of data integrity. Finally, and arguably most importantly, the token is utilized in our Data Provenance Pipeline.
 
 Data Provenance is essentially the life cycle of data. It is used to track the origin of data, the source of data, what computations were conducted on that data, and provides the framework for troubleshooting issues amongst datasets. On a blockchain, all transactions are natively hashed. This means that our data provenance pipeline has the highest level of data integrity and transparency. As an added bonus, the native hashing on blockchains makes the troubleshooting cycle much easier by allowing developers to easily identify duplicate data sources or discover issues in the calculation of their datasets. We understand that crypto currencies are difficult to utilize and we have made it easy for our customers to utilize the benefits without having to deal with their own custody via our partnership with Trustology.
+
+Is it possible to obtain interests on holding or staking VXV?
+-------
+
+No, it is not possible.
+
+Will there be VXV buybacks from Vectorspace AI company?
+-------
+Yes, we want to accumulate as much VXV as possible, that's our main purpose with buybacks. We value VXV. 50% of the revenue will go to buybacks, please refer to question 36 under the financials sections.
+
+Buybacks help to control float, which grants control over the uncertainty of the market. Controlling float is important so that a company can't be pushed around by anyone who doesn't have the company's best interests at heart. Defense against market manipulation.
+
+It should be understood that though some coins have altruistic purposes founded in decentralization, VXV is not one of those coins. VXV is a utility token that is central to the business plan of a for-profit company. So long as the company performs well, both equity and token should increase in value.
+
 
 Why do the team’s tokens move to a new wallet from time to time?
 -------
@@ -192,7 +208,7 @@ Delta App: https://delta.app/en
 What is the current exchange listing strategy?
 -------
 
-Our exchange strategy involves being listed on a tier-1 exchange, e.g., Kraken or KuCoin, available in the USA and another one to serve the Asian markets.
+Our exchange strategy involves being listed on a tier-1 exchange, e.g. Kraken, available in the USA and another one to serve the Asian markets, after the press release (PR) from one of our large customers.
 
 Why did the token get delisted from IDEX in January 2020?
 -------
@@ -279,6 +295,13 @@ Long baskets were discarded due to COVID-19 making it not viable, but we are cur
 The first reason is because anytime you see someone making money based off of chapter 11 plays (bankruptcies), this is a chance play. These are not worth playing as it is a gamble. When you look at long baskets, they are not something we are focused on at this time. We started generating long Smart Baskets for the crypto markets which crashed. We then moved into datasets for every industry. Then we had an economic crash which resulted in a shift to short plays. The investment club will offer baskets for shorts on the traditionals side. Baskets are certainly available, and in this environment, we see them as being a big opportunity which we are prepared for. Institutions and retail will be offered to the opportunity to short traditionals.
 
 The Coronavirus basket (COVID-19) resulted in a multitude of long opportunities. The secret sauce to Smart Baskets is the ability to take a Smart Basket and filter them by criteria of context to create two groups that allow you to go short and long. Creating that separation or filters is the goal. Data is the unrefined crude oil, while datasets are the refined petroleum that power AI systems. The dataset augmentation part is important because it allows data engineering pipelines to take their datasets and append them with Vectorspace AI NLP datasets. This will allow them to create new clusters/correlations as to why things are occurring.
+
+Is there a way to test the Smart Baskets generation?
+-------
+
+Yes, there is a demo version where you are able to set the themes and the algorithm will generate static thematic smart baskets containing the symbols of the public trading vehicles (stocks) related (containing known and hidden relationships) to each one of themes. The tool also includes a comparison of the smart baskets returns against the S&P index. You can try it at https://vectorspace.ai/recommend/datasets/data/trends/e01395aad51ca79cb22c422d30d1c6c70974863a-20210501-04_07_20_AM.html.
+
+These are demos designed to exemplify our capabilities. This is the tip of the iceberg. Demos are designed for NLP engineers inside hedge funds. Full commercial grade versions are only available to institutional customers. 
 
 Financials
 ========
