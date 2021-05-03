@@ -6,6 +6,7 @@ What is Vectorspace AI?
 --------
 
 Vectorspace AI is a data-focused crypto startup, the easiest way to understand what we do would be to jump right into it by observing a real-life event that resulted in an opportunity to profit based on our Natural Language Processing and Understanding (NLP/NLU) real-time datasets and connected to what is called ‘information arbitrage’.
+
 Our platform, which includes datasets and products that can be built on top of them, enable known and hidden relationship detection in data. Our datasets can be used to cluster entities that have known and hidden relationships to outside events, global trends or news. These clusters can represent networks of suppliers, companies working on similar drugs or any entity that might have symbiotic, parasitic or sympathetic latent entanglement with another entity, event or global trend.
 
 Who is the team?
@@ -37,6 +38,8 @@ We are a team with a deep background in science, technology and the financial ma
 - Legal: 1
 - Finance: 1
 
+The team size is rapidly growing to keep up with the increasing number of new client’s requests. You can view the current open positions at https://vectorspace.ai/careers.html.
+
 Where is Vectorspace AI located?
 -------
 
@@ -62,7 +65,11 @@ When was VXV token created?
 Is there an updated roadmap?
 -------
 
-We provide an updated roadmap once a week on Monday at 1pm PST after the traditional markets close in the form of a corporate executive conference call. The calls are available in the main Telegram group and in our site, in this link: https://vectorspace.ai/conf-calls.html
+We provide an updated roadmap once a week on Thursday after the traditional markets close in the form of a corporate executive conference call. The calls are available at https://vectorspace.ai/conf-calls.html
+
+Is there a text version of the conference calls?
+-------
+Yes, conference call transcripts are made by a valuable community member and posted in a Telegram channel: https://t.me/VXVConfCallNotes
 
 Is the team planning on building a new website and possibly touching up the branding?
 -------
@@ -81,18 +88,18 @@ What is the current circulating supply of VXV?
 ------------
 
 We need to subtract the amount in the team’s wallet from the total supply, so:
-50,000,000 VXV – ~18,500,000 VXV = ~31,500,000 VXV, updated on 02/13/2021.
+50,000,000 VXV – ~16,800,000 VXV = ~33,200,000 VXV, updated on 04/13/2020.
 
 When will the correct circulating supply be reflected on Coinmarketcap, Coingecko etc.?
 ----------
 
-We are aware of it, and we are working to get this updated in compliance with CMC’s criteria for listing the circulating supply.
+We are aware of it, and we are working to get this updated in compliance with these pages’s criteria for listing the circulating supply.
 
 What is the current market cap of VXV?
 -------
 
 We need to multiply the current circulating supply by the current token price, so:
-~31,500,000 VXV * $0.78 = $24,570,000, updated on 02/13/2021.
+~33,200,000 VXV * $2.28 = $75,696,000, updated on 04/13/2020.
 
 Was there an ICO?
 -------
@@ -129,6 +136,20 @@ What is the purpose of the VXV token?
 The token can be used to pay for a subscription to access Vectorspace AI’s services, although customers can also pay for these subscriptions with USD, ETH, or BTC. Beyond payments, the tokens wallet address serves as an API key for the distribution of datasets. From a software engineering standpoint wallet addresses function exactly the same way API keys do. This allows the distribution of datasets to be seamless and allows our customers to utilize the highest level of data integrity. Finally, and arguably most importantly, the token is utilized in our Data Provenance Pipeline.
 
 Data Provenance is essentially the life cycle of data. It is used to track the origin of data, the source of data, what computations were conducted on that data, and provides the framework for troubleshooting issues amongst datasets. On a blockchain, all transactions are natively hashed. This means that our data provenance pipeline has the highest level of data integrity and transparency. As an added bonus, the native hashing on blockchains makes the troubleshooting cycle much easier by allowing developers to easily identify duplicate data sources or discover issues in the calculation of their datasets. We understand that crypto currencies are difficult to utilize and we have made it easy for our customers to utilize the benefits without having to deal with their own custody via our partnership with Trustology.
+
+Is it possible to obtain interests on holding or staking VXV?
+-------
+
+No, it is not possible at the moment. There are talks about developing a feature to “lease” your VXV (leasing the access to datasets), potentially resulting in some kind of income, but this is a long-term goal. 
+
+Will there be VXV buybacks from Vectorspace AI company?
+-------
+Yes, we want to accumulate as much VXV as possible, that's our main purpose with buybacks. We value VXV. 50% of the revenue will go to buybacks, please refer to question 36 under the financials sections.
+
+Buybacks help to control float, which grants control over the uncertainty of the market. Controlling float is important so that a company can't be pushed around by anyone who doesn't have the company's best interests at heart. Defense against market manipulation.
+
+It should be understood that though some coins have altruistic purposes founded in decentralization, VXV is not one of those coins. VXV is a utility token that is central to the business plan of a for-profit company. So long as the company performs well, both equity and token should increase in value.
+
 
 Why do the team’s tokens move to a new wallet from time to time?
 -------
@@ -191,7 +212,7 @@ Delta App: https://delta.app/en
 What is the current exchange listing strategy?
 -------
 
-Our exchange strategy involves being listed on a tier-1 exchange, e.g., Kraken or KuCoin, available in the USA and another one to serve the Asian markets.
+Our exchange strategy involves being listed on a tier-1 exchange, e.g. Kraken, available in the USA and another one to serve the Asian markets, after the press release (PR) from one of our large customers.
 
 Why did the token get delisted from IDEX in January 2020?
 -------
@@ -278,6 +299,13 @@ Long baskets were discarded due to COVID-19 making it not viable, but we are cur
 The first reason is because anytime you see someone making money based off of chapter 11 plays (bankruptcies), this is a chance play. These are not worth playing as it is a gamble. When you look at long baskets, they are not something we are focused on at this time. We started generating long Smart Baskets for the crypto markets which crashed. We then moved into datasets for every industry. Then we had an economic crash which resulted in a shift to short plays. The investment club will offer baskets for shorts on the traditionals side. Baskets are certainly available, and in this environment, we see them as being a big opportunity which we are prepared for. Institutions and retail will be offered to the opportunity to short traditionals.
 
 The Coronavirus basket (COVID-19) resulted in a multitude of long opportunities. The secret sauce to Smart Baskets is the ability to take a Smart Basket and filter them by criteria of context to create two groups that allow you to go short and long. Creating that separation or filters is the goal. Data is the unrefined crude oil, while datasets are the refined petroleum that power AI systems. The dataset augmentation part is important because it allows data engineering pipelines to take their datasets and append them with Vectorspace AI NLP datasets. This will allow them to create new clusters/correlations as to why things are occurring.
+
+Is there a way to test the Smart Baskets generation?
+-------
+
+Yes, there is a demo version where you are able to set the themes and the algorithm will generate static thematic smart baskets containing the symbols of the public trading vehicles (stocks) related (containing known and hidden relationships) to each one of themes. The tool also includes a comparison of the smart baskets returns against the S&P index. You can try it at https://vectorspace.ai/recommend/datasets/data/trends/e01395aad51ca79cb22c422d30d1c6c70974863a-20210501-04_07_20_AM.html.
+
+These are demos designed to exemplify our capabilities. This is the tip of the iceberg. Demos are designed for NLP engineers inside hedge funds. Full commercial grade versions are only available to institutional customers. 
 
 Financials
 ========
@@ -488,11 +516,11 @@ We do not have competitors yet that provide NLU correlation matrix datasets used
 What places Vectorspace AI ahead of its competitors?
 -------
 
--	 First to market
--	algorithmic calculations
--	strategy wrapped around technology
--	knowledge expertise in the public markets, 
--	and decades of experience in data science (previously known as data/knowledge/text mining and epigraphy) and data engineering.
+-	First to market;
+-	Algorithmic calculations;
+-	Strategy wrapped around technology;
+-	Knowledge expertise in the public markets;
+-	Decades of experience in data science (previously known as data/knowledge/text mining and epigraphy) and data engineering.
 
 The VXV approach for those platforms is unique in the industry for dataset exposure in several ways. These trade secrets also double as our moats and barrier to entry along with a hedge.
 
@@ -552,6 +580,39 @@ Decentralized Finance (DeFi) is the big hype currently in the blockchain space. 
 -------
 
 Absolutely. 
+
+Investment club
+========
+
+What is the investment club?
+-------
+The investment club is a group whose goal is to enable retailers to trade the markets (traditional and crypto) using the full suite of Vectorspace AI offerings. It will operate on the long and short side at the same time. This means positioning across thematic baskets that are long, short and long/short. It's the best way to transition into a downturn, when one arrives.
+
+As an investment club as defined by the US SEC, trades are decided upon by the club or group. In some cases, algos can decide on the trades if the group agrees. 
+Please keep in mind that all details about the investment club aren’t released yet, but will be in the near future.
+Further read: https://www.sec.gov/reportspubs/investor-publications/investorpubsinvclubhtm.html
+
+What are the requirements to participate in the investment club?
+-------
+All members must hold at least 100 VXV and invest a minimum of $500.
+
+Will there be a limit of members in the investment club?
+-------
+No, there will be no limit of members in the investment club.
+
+When will the investment club start?
+-------
+When we finish raising a minimum of $5M, the investment club will start. This capital will enable us to operate on all thematic baskets the model produces, this lowers the risks. We'll have updates on capital raises along the way. 
+
+How to participate in the investment club?
+-------
+In order to participate in the investment club, one must send a Telegram message (DM) to @CryptoJay90 with the following information:
+-	First and last name;
+-	Best contact e-mail;
+-	Phone number;
+-	Telegram handle;
+-	Country of residence;
+-	Investment amount.
 
 Useful Educational Links
 ========
@@ -675,4 +736,26 @@ https://www.trustology.io/insights-events/token-issuer-case-study-vectorspace-ai
 
 “Upblock’s Research Report of Vectorspace AI“
 https://upblock.io/report/Vectorspace%20AI
+
+“Crypto Altcoin $VXV in 2 Minutes: Vectorspace AI”
+https://www.youtube.com/watch?v=9Se1A4wjywk
+
+Telegram
+-------
+
+Vectorspace AI’s main channel
+https://t.me/joinchat/GrCYjA8rPgD8coAiEhRuBA
+
+Unofficial channel
+https://t.me/vexies
+
+Unofficial Korean channel
+https://t.me/kimchivxv
+
+Transcripts of the conference calls
+https://t.me/VXVConfCallNotes
+
+Quotes from the CEO 
+https://t.me/kasianquotes
+
 
