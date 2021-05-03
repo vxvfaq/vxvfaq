@@ -67,6 +67,10 @@ Is there an updated roadmap?
 
 We provide an updated roadmap once a week on Thursday after the traditional markets close in the form of a corporate executive conference call. The calls are available at https://vectorspace.ai/conf-calls.html
 
+Is there a text version of the conference calls?
+-------
+Yes, conference call transcripts are made by a valuable community member and posted in a Telegram channel: https://t.me/VXVConfCallNotes
+
 Is the team planning on building a new website and possibly touching up the branding?
 -------
 
@@ -136,7 +140,7 @@ Data Provenance is essentially the life cycle of data. It is used to track the o
 Is it possible to obtain interests on holding or staking VXV?
 -------
 
-No, it is not possible.
+No, it is not possible at the moment. There are talks about developing a feature to “lease” your VXV (leasing the access to datasets), potentially resulting in some kind of income, but this is a long-term goal. 
 
 Will there be VXV buybacks from Vectorspace AI company?
 -------
@@ -699,4 +703,23 @@ https://www.trustology.io/insights-events/token-issuer-case-study-vectorspace-ai
 
 “Upblock’s Research Report of Vectorspace AI“
 https://upblock.io/report/Vectorspace%20AI
+
+Telegram
+-------
+
+Vectorspace AI’s main channel
+https://t.me/joinchat/GrCYjA8rPgD8coAiEhRuBA
+
+Unofficial channel
+https://t.me/vexies
+
+Unofficial Korean channel
+https://t.me/kimchivxv
+
+Transcripts of the conference calls
+https://t.me/VXVConfCallNotes
+
+Quotes from the CEO 
+https://t.me/kasianquotes
+
 
