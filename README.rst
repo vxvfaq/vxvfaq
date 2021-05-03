@@ -581,7 +581,7 @@ Decentralized Finance (DeFi) is the big hype currently in the blockchain space. 
 
 Absolutely. 
 
-Investment club
+Investment Club
 ========
 
 What is the investment club?
