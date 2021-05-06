@@ -24,9 +24,15 @@ When we finish raising a minimum of $5M, the investment club will start. This ca
 How to participate in the investment club?
 -------
 In order to participate in the investment club, one must send a Telegram message (DM) to @CryptoJay90 with the following information:
+
 -	First and last name;
+
 -	Best contact e-mail;
+
 -	Phone number;
+
 -	Telegram handle;
+
 -	Country of residence;
+
 -	Investment amount.
