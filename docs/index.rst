@@ -18,5 +18,12 @@ Contents:
 
    overview
    tokenomics
+   exchangeandtools
+   technology
+   financials
+   onboardingsubscription
+   partnerscustomers
+   investmentclub
+   usefuleducational
 
 
