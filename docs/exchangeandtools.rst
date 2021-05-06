@@ -12,6 +12,7 @@ Probit Exchange: https://www.probit.com/app/exchange/VXV-BTC
 
 UniSwap: https://uniswap.info/pair/0x0c9C5DAF1D7CD8B10e9fC5e7a10762f0a8d1C335
 
+
 Tracking Tools
 
 CoinMarketCap: https://coinmarketcap.com/currencies/vectorspace-ai/
