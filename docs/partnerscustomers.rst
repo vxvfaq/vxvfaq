@@ -9,8 +9,11 @@ In the case of an M&A event or strategic investment by one of our customers, or 
 VXV will be transacted in terms of all buyouts before the close of any M&A event, particularly an acquisition. We will allow anything else to happen but for all VXV to be transacted before a close for the following reasons:
 
 A) This is critical for the current structure and design of the revenue model to work (which we have put a lot of thought into).
+
 B) Critical for the core team that has been with the company for the last 18 years through thick and thin. 
+
 D) Critical for other investors 
+
 E) Critical for all stakeholders
 
 Considering the potential of an acquisition by S&P Global or a similar suitor, what is stopping the acquirer from scalping out the tech and moving on with it, leaving the VXV token useless? In other words, token necessity can create frictions on the corporate side for potential clients (limited liquidity, custody issues, etc.).
