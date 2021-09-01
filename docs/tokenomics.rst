@@ -10,7 +10,7 @@ What is the current circulating supply of VXV?
 ------------
 
 We need to subtract the amount in the team’s wallets from the total supply, so:
-50,000,000 VXV – ~12,000,000 VXV = ~38,000,000 VXV, updated on 07/19/2021.
+50,000,000 VXV – 12,507,321.61 VXV = 37,492,678.39 VXV, updated on 08/25/2021.
 
 When will the correct circulating supply be reflected on Coinmarketcap, Coingecko etc.?
 ----------
@@ -21,7 +21,7 @@ What is the current market cap of VXV?
 -------
 
 We need to multiply the current circulating supply by the current token price, so:
-~38,000,000 VXV * $1.55 = $58,900,000, updated on 07/19/2021.
+37,492,678.39 VXV * $3.67 = $137,598,129 updated on 08/25/2021.
 
 Was there an ICO?
 -------

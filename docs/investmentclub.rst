@@ -19,15 +19,15 @@ No, there will be no limit of members in the investment club.
 
 When will the investment club start?
 -------
-When we finish raising a minimum of $5M, the investment club will start. This capital will enable us to operate on all thematic baskets the model produces, this lowers the risks. We'll have updates on capital raises along the way. 
+When we finish raising a minimum of $1,5M, the investment club will start. This capital will enable us to operate on all thematic baskets the model produces, this lowers the risks. We'll have updates on capital raises along the way. 
 
 How to participate in the investment club?
 -------
-In order to participate in the investment club, one must send a Telegram message (DM) to @CryptoJay90 with the following information:
+In order to participate in the investment club, one must send a Telegram message (DM) to @CryptoJay90 containing your contact e-mail. The registration process will then take place by e-mail, where you will need to forward the following information:
 
 -	First and last name;
 
--	Best contact e-mail;
+- Your passport/Id for AML KYC purposes (photos of it);
 
 -	Phone number;
 
