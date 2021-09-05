@@ -27,8 +27,6 @@ In order to participate in the investment club, one must send a Telegram message
 
 -	First and last name;
 
-- Your passport/Id for AML KYC purposes (photos of it);
-
 -	Phone number;
 
 -	Telegram handle;
