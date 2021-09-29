@@ -79,9 +79,6 @@ There will be tons of competition in the future but the dataset industry is so l
 Who are Vectorspace AI’s current partners/collaborators?
 -------
 
-Amazon: “COVID-19 Drug Repurposing Datasets Now Available in Collaboration with Vectorspace AI, Amazon & Microsoft”
-https://www.prnewswire.com/news-releases/covid-19-drug-repurposing-datasets-now-available-in-collaboration-with-vectorspace-ai-amazon--microsoft-301030507.html
-
 CERN – European Organization for Nuclear Research: It is an academic collaboration based on datasets related to particle physics. We intend to apply what we learn in that area in an inter-disciplinary way to biosciences datasets.
 CERN’s Website: https://home.cern/
 
@@ -111,12 +108,12 @@ Trustology: It is a UK based FinTech company focused on providing high-end, insu
 https://trustology.io/vectorspace-ai-leads-with-trustologys-crypto-custodial-hot-wallet/
 Some of the potential partnerships/collaborations that have been in the works during the last months: S&P Global, Neudata, CloudQuant, Microsoft, Bloomberg, GNC.
 
-How do the collaborations with Microsoft, Amazon, and S&P Global work?
+How do the collaborations with Microsoft, and S&P Global work?
 -------
 
-For Amazon and Microsoft, it is different than with Bloomberg or S&P Global. The former are also different from one another as Amazon's AWS is more mature. Microsoft has a different customer base and culture. On the Amazon side, we have the life sciences and COVID-19 datasets. They want to group us with other companies which is based on their timing based on their life sciences focus. Microsoft will be a general focus and has an investment arm that the team will be pursuing as well. PR will likely be released by them and both Amazon/MSFT will produce case studies.
+For Microsoft, it is different than with Bloomberg or S&P Global. Microsoft has a different customer base and culture. They want to group us with other companies which is based on their timing based on their life sciences focus. Microsoft will be a general focus and has an investment arm that the team will be pursuing as well. PR will likely be released by them and they will produce case studies.
 
-What is the current status on the pending Public Relations (PR) with Amazon, Microsoft, S&P Global etc.?
+What is the current status on the pending Public Relations (PR) with Microsoft, S&P Global etc.?
 -------
 
 They are in progress and that is all we can say at this time.
