@@ -8,9 +8,6 @@ What happens to VXV tokens during and after payment for a service?
 -------
 
 The customer would determine the amount of VXV needed to access a custom-tiered service level of their choice. And then they would acquire that amount of VXV which would be
-in a wallet. When they are done using that dataset or no longer find it useful, they can sell the VXV to A) the company or B) another counterparty or C) on the open market. And then they will no longer have access to that dataset, its changes or its updates. They can have a static version on their own, but the value is in the updating, the change in the information
-
-The customer would determine the amount of VXV needed to access a custom-tiered service level of their choice. And then they would acquire that amount of VXV which would be
 in a wallet. When they are done using that dataset or no longer find it useful, they can sell the VXV to A) the company or B) another counterparty or C) on the open market. And
 then they will no longer have access to that dataset, its changes or its updates. They can have a static version on their own, but the value is in the updating, the change in the information
 
