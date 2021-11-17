@@ -6,7 +6,11 @@ What is the revenue model?
 
 We offer a paid subscription where we have dozens of different tiered levels of service offerings, similar to Netflix, mixed with Amazon, but for datasets. We offer $0.99c updates per dataset per data source per minute per context which drives the revenue model. 
 
-Customers can pay in fiat or crypto (BTC/ETH), then 50% of the subscription value will be bought in VXV on the open market that will be placed in the customer’s wallet and assigned to a number of services (dataset, Smart Baskets etc.). As they use the services, the VXV is used up. For instance, generating Smart Baskets from the datasets to find hidden correlations using the Vectorspace AI algorithms uses up the VXV. They are then locked up for a period of time. This period of time has yet to be determined.
+Customers can pay in fiat or crypto (BTC/ETH), then 50% of the subscription value will be bought in VXV on the open market that will be placed in the customer’s wallet and assigned to a number of services (dataset, Smart Baskets etc.). 
+
+Could you walk us through what happens to the VXV tokens before, during and after paying for a service?
+
+Sure, it’s very simple. The customer would determine the amount of VXV needed to access a custom-tiered service level of their choice. And then they would acquire that amount of VXV which would be in a wallet. When they are done using that dataset or no longer find it useful, they can sell the VXV to A) the company or B) another counterparty or C) on the open market. And then they will no longer have access to that dataset, its changes or its updates. They can have a static version on their own, but the value is in the updating, the change in the information For instance, generating Smart Baskets from the datasets to find hidden correlations using the Vectorspace AI algorithms uses up the VXV. They are then locked up for a period of time. This period of time has yet to be determined.
 
 The other 50% will work as a “fee” that translates to revenue. Revenue will be used to build the company which increases its valuation and impact in the world. We are sharing the fee. It is like a revenue share with the public. Please note that the percentage of the “fee” is adjustable, so it could be changed in the future.
 
