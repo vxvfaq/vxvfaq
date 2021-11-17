@@ -4,13 +4,6 @@ Financials
 What is the revenue model?
 -------
 
-What happens to VXV tokens during and after payment for a service?
--------
-
-The customer would determine the amount of VXV needed to access a custom-tiered service level of their choice. And then they would acquire that amount of VXV which would be
-in a wallet. When they are done using that dataset or no longer find it useful, they can sell the VXV to A) the company or B) another counterparty or C) on the open market. And
-then they will no longer have access to that dataset, its changes or its updates. They can have a static version on their own, but the value is in the updating, the change in the information
-
 We offer a paid subscription where we have dozens of different tiered levels of service offerings, similar to Netflix, mixed with Amazon, but for datasets. We offer $0.99c updates per dataset per data source per minute per context which drives the revenue model. 
 
 Customers can pay in fiat or crypto (BTC/ETH), then 50% of the subscription value will be bought in VXV on the open market that will be placed in the customer’s wallet and assigned to a number of services (dataset, Smart Baskets etc.). 
@@ -32,8 +25,10 @@ This process can change as needed.
 A revenue projection can be seen on page 14 of our deck: 
 https://vectorspace.ai/assets/VXV_Deck_External.pdf
 
-Why is the token valuable?
+What happens to VXV tokens during and after payment for a service?
 -------
+
+The customer would determine the amount of VXV needed to access a custom-tiered service level of their choice. And then they would acquire that amount of VXV which would be in a wallet. When they are done using that dataset or no longer find it useful, they can sell the VXV to A) the company or B) another counterparty or C) on the open market. And then they will no longer have access to that dataset, its changes or its updates. They can have a static version on their own, but the value is in the updating, the change in the information.
 
 The value created by our community which includes the core team, the outside team and contributing members of our global community, translates directly into the value of the VXV utility token and as a global public trading vehicle.
 
