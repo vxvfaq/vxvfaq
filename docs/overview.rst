@@ -3,11 +3,8 @@ Overview
 
 
 What is Vectorspace AI?
---------
 
-Vectorspace AI is a data-focused crypto startup, the easiest way to understand what we do would be to jump right into it by observing a real-life event that resulted in an opportunity to profit based on our Natural Language Processing and Understanding (NLP/NLU) real-time datasets and connected to what is called ‘information arbitrage’.
-
-Our platform, which includes datasets and products that can be built on top of them, enable known and hidden relationship detection in data. Our datasets can be used to cluster entities that have known and hidden relationships to outside events, global trends or news. These clusters can represent networks of suppliers, companies working on similar drugs or any entity that might have symbiotic, parasitic or sympathetic latent entanglement with another entity, event or global trend.
+Vectorspace AI provides high-value correlation matrix datasets to give researchers the ability to accelerate their data-driven innovation and discoveries using patent-protected NLP/NLU. Clients save time in the research loop by quickly testing hypotheses and running experiments with higher throughput. Vectorspace AI originated in the Life Sciences dept. of Lawrence Berkeley National Laboratory (LBNL) where the founders developed the patents that drive the company’s innovation for a variety of academic institutions. Visit https://vectorspace.ai
 
 Who is the team?
 ------------
@@ -71,5 +68,4 @@ Yes, conference call transcripts are made by a valuable community member and pos
 
 Is the team planning on building a new website and possibly touching up the branding?
 -------
-
-Google made it to the number one brand in the world with a simple interface. We are in the business of data engineering and our branding is geared towards attracting revenue generating customers in data fields in the industry. This may happen at a later time but is not a priority at the moment.
+Marketing, specifically around awareness and education, is a top priority for the company. In fact a brand refresh is currently in the works. This brand refresh will give the company the messaging platform it needs for optimized outcomes across channels. Social media will play an increased role within the brand as we work towards more meaningful engagement with our community and customers.
