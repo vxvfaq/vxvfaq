@@ -6,6 +6,8 @@ On what exchanges and tracking tools is VXV currently available?
 
 Exchanges
 
+Kucoin: https://www.kucoin.com
+
 CoinMetro: https://coinmetro.com/ 
 
 Probit Exchange: https://www.probit.com/app/exchange/VXV-BTC
@@ -24,6 +26,8 @@ Blockfolio: https://blockfolio.com/
 The Crypto App: https://thecrypto.app/
 
 Delta App: https://delta.app/en
+
+Trading view: https://www.tradingview.com/
 
 What is the current exchange listing strategy?
 -------
