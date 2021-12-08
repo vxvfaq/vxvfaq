@@ -34,5 +34,4 @@ In addition to that, placing changes in data and changes in calculations is cust
 
 Why is VXV not a stable coin pegged to the dollar? 
 -------
-
-VXV is not meant to be a currency, it is a utility token, designed to appreciate in value, like a stock. More subscribers, more coins out of circulation because the customers must have the VXV in order to power up their API calls.
+VXV is not meant to be a currency, it is a utility token, More subscribers, more coins out of circulation because the customers must have the VXV in order to power up their API calls.
