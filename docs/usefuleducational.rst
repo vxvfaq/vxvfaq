@@ -130,9 +130,6 @@ Telegram
 Vectorspace AI’s main channel
 https://t.me/joinchat/GrCYjA8rPgD8coAiEhRuBA
 
-ThematicBaskets cehannel 
-https://t.me/VECAI_BOT
-
 Unofficial channel
 https://t.me/vexies
 
