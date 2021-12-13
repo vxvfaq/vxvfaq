@@ -74,11 +74,10 @@ Is there any indication of when or at what stage buybacks are to be expected?
 Our objective is not to move tokens from the main wallet. The objective is to acquire as much VXV as we can. We will be doing this with buybacks. The ability to do so is driven by revenue generation. We will see large buybacks occur when there is consequential revenue.
 
 Once tokens are bought back, they go to the treasury and taken out of circulation. Then what? Are they locked? Or do they sit there until the team sells them 
--------
 again when it’s advantageous?
+-------
 
-
-
+So, we follow industry standards related to U.S. publicly traded companies in terms of buybacks. So, you can look at the way buybacks work on Google and you’ll have all the information you need, in terms of how companies handle buybacks. There’s a million different ways. For us, a buyback of VXV is smart for us, because we know the value of our datasets will only increase over time and that value directly correlates to the value of VXV. And the way the market values the datasets, the market will value VXV. So, it only makes sense for us to acquire as much VXV as possible and utilize that VXV in the future to either lease to other groups in terms of datasets, or to use high-value datasets ourselves, holding on to the VXV associated to those datasets. We can at any time sell VXV to any institution, any enterprise in the world, at their request. And that would of course be at a higher price than it would be currently valued. For more information on buybacks, again, we encourage you to do a quick search on the net; 
 
 In the case of someone paying $100k, is it all automated in the sense that $50k will automatically go onto the exchange and buy $50k worth of VXV?
 -------
