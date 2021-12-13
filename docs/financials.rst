@@ -67,10 +67,6 @@ What is the current revenue status?
 
 We are revenue positive, i.e., we are already doing business.
 
-What level of user adoption can be expected by the end of 2021?
--------
-
-We expect it to be high.
 
 Is there any indication of when or at what stage buybacks are to be expected?
 -------
