@@ -38,7 +38,7 @@ The team size is rapidly growing to keep up with the increasing number of new cl
 Where is Vectorspace AI located?
 -------
 
-Vectorspace AI is located in San Francisco, CA and Valletta, Malta.
+Vectorspace AI is located in San Francisco, CA.
 
 When was Vectorspace AI founded?
 -------
