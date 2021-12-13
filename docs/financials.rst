@@ -73,7 +73,9 @@ Is there any indication of when or at what stage buybacks are to be expected?
 
 Our objective is not to move tokens from the main wallet. The objective is to acquire as much VXV as we can. We will be doing this with buybacks. The ability to do so is driven by revenue generation. We will see large buybacks occur when there is consequential revenue.
 
-Once tokens are bought back, they go to the treasury and taken out of circulation. Then what? Are they locked? Or do they sit there until the team sells them again when it’s advantageous?
+Once tokens are bought back, they go to the treasury and taken out of circulation. Then what? Are they locked? Or do they sit there until the team sells them 
+-------
+again when it’s advantageous?
 
 
 
