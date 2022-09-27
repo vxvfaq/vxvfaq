@@ -1,17 +1,6 @@
 Useful Educational Links
 ========
 
-Conference Calls
--------
-
-Company-wide conference call archive
-https://vectorspace.ai/conf-calls.html 
-
-Data Sets
--------
-
-Vectorspace AI Datasets
-https://vectorspace.ai/dataset-services.html
 
 “Predicting Future Correlations between Equities”
 https://medium.com/@492727ZED/datasets-with-context-control-e867d600b0
